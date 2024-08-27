@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=40&Center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Sharvari+Nikam.;I+Am+a+Btech+student+at+VIT+vellore.;%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/UtkarshGupta17)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=FFFFFF&size=40&Center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Sharvari+Nikam.;I+Am+a+Btech+student+at+VIT+vellore.;%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/Sharvarinikam)
  
 <h3 align="center">A passionate Programmer from India</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has revolutionized our world, driving my passion for software engineering from an early age. My enthusiasm has only grown over time, and I love exploring new tech stacks 💻, leveraging them to build innovative projects 🛠️.</p>
